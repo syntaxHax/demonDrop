@@ -22,7 +22,7 @@ Drop a C2 beacon (or anything else, really) on target and execute it - with the 
 - plug in the Flipper Zero to the target computer, then in the Flipper main menu navigate to Apps > Scripts
     - when ready, run demonDrop.js
 - wait a few moments... maybe 30 seconds or so.... and the payload should have executed
-    - on the Flipper Zero screen you will see "DONE" once the payload has executed
+    - on the Flipper Zero screen you will see "DONE" when finished
 - unplug the Flipper Zero from the target and (hopefully) enjoy your new C2 beacon
 </div>
 
