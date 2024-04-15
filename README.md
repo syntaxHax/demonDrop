@@ -5,6 +5,7 @@
   Drop a C2 beacon (or anything else, really) on target and execute it - with the Flipper Zero and Momentum firmware.
 </div
 
+<div align="left">
 ### REQUIREMENTS
 
 - Flipper Zero
@@ -21,3 +22,4 @@
 - wait a few moments... maybe 30 seconds or so.... and the payload should have executed
     - on the Flipper Zero screen you will see "DONE" once the payload has executed
 - unplug the Flipper Zero from the target and (hopefully) enjoy your new C2 beacon
+</div>
