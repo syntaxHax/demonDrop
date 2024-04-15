@@ -1,7 +1,6 @@
 <div align="center">
   <img width="200px" src="https://github.com/syntaxHax/demonDrop/assets/86668558/4089a5c5-cfbd-46d2-bbad-0175ce5214a1" />
   <h1>demonDrop</h1>
-  <br/>
 </div
 
 <div align="left">
