@@ -26,4 +26,4 @@ Drop a C2 beacon (or anything else, really) on target and execute it - with the 
 - unplug the Flipper Zero from the target and (hopefully) enjoy your new C2 beacon
 </div>
 
-Only use ethically, responsibly, and with permission! I cannot be held responsible for any misuse of this code.
+<b>Only use ethically, responsibly, and with permission! I cannot be held responsible for any misuse of this code.</b>
