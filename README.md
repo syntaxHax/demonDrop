@@ -7,6 +7,7 @@
 <div align="left">
 
 Drop a C2 beacon (or anything else, really) on target and execute it - with the Flipper Zero and Momentum firmware.
+<br/><br/>
 
 ## REQUIREMENTS
 
@@ -14,7 +15,7 @@ Drop a C2 beacon (or anything else, really) on target and execute it - with the 
 - Momentum firmware DEV d81e72d0 09-04-2024 or newer
     - https://momentum-fw.dev/update/
 
-<h2>USAGE</h2>
+## USAGE
 
 - copy demonDrop.js to FlipperZero > SD Card > apps > Scripts
 - create a folder called "Payloads" in FlipperZero > SD Card > apps > Scripts (i.e. "SD Card\apps\Scripts\Payloads")
