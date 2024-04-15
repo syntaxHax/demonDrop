@@ -1,6 +1,6 @@
 # demonDrop
 
-![alt text]([http://url/to/img.png](https://github.com/syntaxHax/demonDrop/blob/main/img/demonDrop.png?raw=true))
+![alt text]([https://github.com/syntaxHax/demonDrop/blob/main/img/demonDrop.png?raw=true])
 
 Drop a C2 beacon (or anything else, really) on target and execute it - with the Flipper Zero and Momentum firmware.
 
