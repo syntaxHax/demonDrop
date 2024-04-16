@@ -17,7 +17,7 @@ Drop a C2 beacon (or anything else, really) on target and execute it - with the 
 ## USAGE
 
 - copy demonDrop.js to FlipperZero > SD Card > apps > Scripts
-- create a folder called "Payloads" in FlipperZero > SD Card > apps > Scripts (i.e. "SD Card\apps\Scripts\Payloads")
+- create a folder called "payloads" in FlipperZero > SD Card > apps > Scripts (i.e. "SD Card\apps\Scripts\payloads")
     - place a file called "demon.exe" inside the Payloads folder
 - plug in the Flipper Zero to the target computer, then in the Flipper main menu navigate to Apps > Scripts
     - when ready, run demonDrop.js
