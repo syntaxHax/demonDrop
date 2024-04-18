@@ -3,7 +3,7 @@
   <h1>demonDrop</h1>
   <br/>
   Drop a C2 beacon (or anything else, really) on target and execute it - with the Flipper Zero and Momentum firmware.
-  <br/>
+  <br/><br/>
   <img width="600px" src="https://github.com/syntaxHax/demonDrop/assets/86668558/2588ef6c-ce3f-48ab-b508-79117a6601ef" />
   <br/>
 </div>
