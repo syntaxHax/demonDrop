@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="https://github.com/syntaxHax/demonDrop/assets/86668558/4089a5c5-cfbd-46d2-bbad-0175ce5214a1" />
+  <img width="300px" src="https://github.com/syntaxHax/demonDrop/assets/86668558/4089a5c5-cfbd-46d2-bbad-0175ce5214a1" />
   <h1>demonDrop</h1>
 <br/>
   
@@ -7,7 +7,7 @@ Drop a C2 beacon (or anything else, really) on target and execute it - with the 
 <br/>
 
 <div align="center">
-  ![demonDropOutput](https://github.com/syntaxHax/demonDrop/assets/86668558/2588ef6c-ce3f-48ab-b508-79117a6601ef)
+  <img width="500px" src="https://github.com/syntaxHax/demonDrop/assets/86668558/2588ef6c-ce3f-48ab-b508-79117a6601ef" />
   <br/>
 </div>
 
